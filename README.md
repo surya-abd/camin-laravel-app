@@ -1,13 +1,19 @@
-# Repo Final Project Oprec Admin Lab MCI 2022
-
-Nama  : (Masukkan Nama)
-
-NRP   : (Masukkan NRP)
+# Final Project Oprec MCI 2022
   
-## (Masukkan Nama Aplikasi)
+## Nama Aplikasi
+(deskripsikan aplikasi dan tujuannya)
 
-Tujuan Aplikasi     :
+## Fitur Aplikasi
+List fitur pada aplikasi ini adalah sebagai berikut.
+1. fitur pertama
+2. fitur kedua
+3. ...
+4. ...
 
-Deskripsi Aplikasi  :
-
-Fitur Aplikasi      :
+## Tampilan Aplikasi
+(screenshot fitur aplikasi)
+### Fitur 1: ...
+(screenshot fitur 1)
+### Fitur 2: ...
+(screenshot fitur 2)
+### Dst
